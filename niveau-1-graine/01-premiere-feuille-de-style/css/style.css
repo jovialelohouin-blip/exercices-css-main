@@ -1,0 +1,34 @@
+/* css des pages index.html et recettes.html */
+
+/* css du body */
+body{
+    background-color: #fffaf0;
+    color:#1f2a1f;
+    font-family:system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, sans-serif;;
+}
+/* css de l'entête*/
+header{
+    text-align: center;
+}
+
+/* css du grand titre*/
+h1{
+    color:#2e7d32;
+    font-size:2.5rem ;
+}
+
+h2{
+    color:#6d4c41;
+    font-family:Georgia, "Times New Roman", serif;
+}
+/* css des liens */
+a{
+    color:#1b5e20;
+    font-weight: bold;
+}
+
+/* css du pied de page*/
+footer{
+    text-align: center;
+    font-size: 0.9rem;
+}
